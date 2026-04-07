@@ -1,7 +1,11 @@
 aid: chiquita-brands-international
-url: https://raw.githubusercontent.com/api-evangelist/chiquita-brands-international/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/chiquita-brands-international/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.chiquita-brands-international.com
+description: >-
+  Chiquita Brands International is a leading international marketer and distributor
+  of bananas and other fresh produce sold under the Chiquita and other brand names.
