@@ -65,7 +65,7 @@ common:
     url: https://www.chiquita.com/contact-us/
   - type: Shop
     url: https://shop.chiquita.com
-  - type: TermsOfUse
+  - type: TermsOfService
     url: https://www.chiquita.com/terms-of-use/
   - type: PrivacyPolicy
     url: https://www.chiquita.com/privacy-policy/
