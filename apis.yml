@@ -43,6 +43,8 @@ modified: '2026-04-23'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/chiquita-brands-international-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/chiquita
   - type: Website
@@ -69,6 +71,8 @@ common:
     url: https://www.chiquita.com/terms-of-use/
   - type: PrivacyPolicy
     url: https://www.chiquita.com/privacy-policy/
+  - url: https://www.chiquita.com/feed/
+    type: Blog
   - name: BusinessSegments
     type: BusinessSegments
     data:
