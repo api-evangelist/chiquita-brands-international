@@ -1,7 +1,9 @@
 ---
 title: National Chiquita Day Returns on April 15 with a Bold, AI ...
 url: https://www.prnewswire.com/news-releases/national-chiquita-day-returns-on-april-15-with-a-bold-ai-powered-times-square-takeover-and-global-dance-challenge-302742263.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Chiquita Brands International" press release artificial intelligence'
 position: 1
 source: serpapi-google

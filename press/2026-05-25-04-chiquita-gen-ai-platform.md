@@ -1,7 +1,9 @@
 ---
 title: Chiquita Gen AI platform
 url: https://www.chiquita.com/wp-content/uploads/2025/01/AI-tool-TCs_US_Final.pdf
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Chiquita Brands International" press release artificial intelligence'
 position: 4
 source: serpapi-google
